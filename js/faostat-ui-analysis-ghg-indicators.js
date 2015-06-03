@@ -1,6 +1,6 @@
 define(['jquery',
         'handlebars',
-        'text!faostat_ui_analysis_ghg_indicators/html/templates.html',
+        'text!faostat_ui_analysis_ghg_indicators/html/templates.hbs',
         'i18n!faostat_ui_analysis_ghg_indicators/nls/translate',
         'bootstrap',
         'sweetAlert'], function ($, Handlebars, templates, translate) {
